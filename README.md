@@ -1,9 +1,11 @@
 - 👋 Olá, sou o Hasan Basam.
-- 👀 Tenho 20 anos.
+- 👀 Tenho 22 anos.
 - 🌱 Utilizo: Figma, Git, Trello, Canva e Visual Studio Code
-- 💞️ Estudo HTML, CSS, Javascript, React.js, Bootstrap, mySQL e Java;
+- 💞️ Front End: HTML5, CSS3, Javascript, React.js, Bootstrap. 
+- 💞️ Banco de dados: MySQL.
+- 💞️ Back End: Java, Spring Boot.
 - 📫 Contate-me em: hasandahbur21@gmail.com
-- 📒 Sou estudante do Instituto PROA
+- 📒 Proano
 - 💙 Linkedin: https://www.linkedin.com/in/hasan-basam-26416b232/
 
 <div align="center">
