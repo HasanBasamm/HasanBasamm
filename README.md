@@ -10,7 +10,7 @@
 
 <div align="center">
 <a href="https://github.com/HasanBasamm">
-<img height="150em" src="https://github-readme-stats.vercel.app/api?username=hasanbasamm&show_icons=true&theme=darklogoColor=61DAFe"/>
+<img height="150em" src="https://github-readme-stats.vercel.app/api?username=hasanbasamm&show_icons=true&theme=dark&logoColor=61DAFe"/>
 <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=hasanbasamm&layout=compact&langs_count=7&theme=dark"/>
 </div>
 
